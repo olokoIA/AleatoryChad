@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "1.0.0",
+  "scenes": [
+    {
+      "id": "builtin_moon",
+      "name": "Lua",
+      "path": "scenarios/lua",
+      "files": [
+        {
+          "role": "asset",
+          "path": "scenarios/lua/moon_ground.png",
+          "sizeBytes": 4612882,
+          "sha256": "65cea38be9edce21cef195577fcaaff98e8fb0b5935546637c889414d8f83416"
+        },
+        {
+          "role": "asset",
+          "path": "scenarios/lua/moon_pentavius.glb",
+          "sizeBytes": 4802184,
+          "sha256": "246d262e63e5f3664cb867f2ab970a7c6c21f46d064e5e38b2f281e65013827d"
+        },
+        {
+          "role": "asset",
+          "path": "scenarios/lua/moon_rocks.obj",
+          "sizeBytes": 46595,
+          "sha256": "5e9b80c370e717f9743cfff5edb9e4a732b4cfb03a68d91e1020528c49f65ed1"
+        },
+        {
+          "role": "asset",
+          "path": "scenarios/lua/moon_space_sky.png",
+          "sizeBytes": 3616685,
+          "sha256": "205b300ac61abb7e5478404d666225572490fe0ee410f513cf7613f0e12502d1"
+        },
+        {
+          "role": "asset",
+          "path": "scenarios/lua/moon_terrain.obj",
+          "sizeBytes": 3377362,
+          "sha256": "70dcc4c5f74760c5d9b4ce9b8f22ad10a10589458171d7a6c74dbf431b182b18"
+        },
+        {
+          "role": "preview",
+          "path": "scenarios/lua/preview.jpg",
+          "sizeBytes": 139068,
+          "sha256": "b246064f217f8d479df78c49c7c8595a8f5fbda008a72fd539978d2e121e0109"
+        }
+      ]
+    },
+    {
+      "id": "builtin_tropical_island",
+      "name": "Tropical Island",
+      "path": "scenarios/tropical-island",
+      "files": [
+        {
+          "role": "preview",
+          "path": "scenarios/tropical-island/preview.jpg",
+          "sizeBytes": 1187816,
+          "sha256": "5ec140702f8bd86839cf0ea6b4fa3a784a6afe5f9cf4118c4cec8439ee2c04c7"
+        },
+        {
+          "role": "asset",
+          "path": "scenarios/tropical-island/scene.glb",
+          "sizeBytes": 14913384,
+          "sha256": "3c231d431240a29fd7ebb17016677b3a1104fb1971243a7cb9c629b2211edf1b"
+        }
+      ]
+    },
+    {
+      "id": "builtin_piscina",
+      "name": "Piscina",
+      "path": "scenarios/piscina",
+      "files": [
+        {
+          "role": "panorama",
+          "path": "scenarios/piscina/panorama.png",
+          "sizeBytes": 8892168,
+          "sha256": "35cba704ff82529a1f47ac9aa0f19e47b33e0dec45c11d0cd954b95475a0aada"
+        }
+      ]
+    },
+    {
+      "id": "builtin_dream",
+      "name": "Dream",
+      "path": "scenarios/dream",
+      "files": [
+        {
+          "role": "panorama",
+          "path": "scenarios/dream/panorama.png",
+          "sizeBytes": 2864076,
+          "sha256": "d189c99e4efd83b34e59889bbac5f85b065b7b5b9b64e211c3e19e2244d4b6af"
+        }
+      ]
+    },
+    {
+      "id": "builtin_fenda_do_mar",
+      "name": "Fenda do Mar",
+      "path": "scenarios/fenda-do-mar",
+      "files": [
+        {
+          "role": "panorama",
+          "path": "scenarios/fenda-do-mar/panorama.png",
+          "sizeBytes": 2264904,
+          "sha256": "6e369423e18c581cb9f380f2b622fafc636d0dcc0f8fe16eed1f9c3db01f697a"
+        }
+      ]
+    },
+    {
+      "id": "builtin_lago_a_noite",
+      "name": "Lago à noite",
+      "path": "scenarios/lago-a-noite",
+      "files": [
+        {
+          "role": "panorama",
+          "path": "scenarios/lago-a-noite/panorama.jpg",
+          "sizeBytes": 44579,
+          "sha256": "347656790b54aef1ccfcfb57629a1f24ca2cd73c52f51c5312dc02cc8e1a23f8"
+        }
+      ]
+    },
+    {
+      "id": "builtin_montanhas",
+      "name": "Montanhas",
+      "path": "scenarios/montanhas",
+      "files": [
+        {
+          "role": "panorama",
+          "path": "scenarios/montanhas/panorama.png",
+          "sizeBytes": 2826050,
+          "sha256": "91e534a11f5eb97c0a765d9e9bb55e0d7797f8909f07f7fb26c0fac3b4d34737"
+        }
+      ]
+    },
+    {
+      "id": "builtin_blocos",
+      "name": "Blocos",
+      "path": "scenarios/blocos",
+      "files": [
+        {
+          "role": "preview",
+          "path": "scenarios/blocos/preview.jpg",
+          "sizeBytes": 629848,
+          "sha256": "816f1d20e777b5b38d25ccf1d43a5ce22406e30052acaab0d9e0756ccea098cb"
+        },
+        {
+          "role": "asset",
+          "path": "scenarios/blocos/scene.glb",
+          "sizeBytes": 1917064,
+          "sha256": "f613c2737dce927f8dbe52375a5ae469b1d885eb8297f01456188b295006be60"
+        }
+      ]
+    },
+    {
+      "id": "builtin_home_nevada",
+      "name": "Home Nevada",
+      "path": "scenarios/home-nevada",
+      "files": [
+        {
+          "role": "preview",
+          "path": "scenarios/home-nevada/preview.jpg",
+          "sizeBytes": 377141,
+          "sha256": "aa230f95faebc53899b99b81436f05ad8ae6fc7ad3ed57263e67ec6a844829af"
+        },
+        {
+          "role": "asset",
+          "path": "scenarios/home-nevada/scene.glb",
+          "sizeBytes": 14365608,
+          "sha256": "f3d30a48802ecd020b49b53712c951d2e1aaa9b0a32ec7676ee4a319713e1f31"
+        },
+        {
+          "role": "skybox",
+          "path": "scenarios/home-nevada/sky.jpg",
+          "sizeBytes": 311913,
+          "sha256": "2d2b8455aeb41e437ee5740a85c6b636bd916ed95d8394d64dc399effcce9f11"
+        }
+      ]
+    }
+  ]
+}
