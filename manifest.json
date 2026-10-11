@@ -40,8 +40,8 @@
         {
           "role": "preview",
           "path": "scenarios/lua/preview.jpg",
-          "sizeBytes": 38916,
-          "sha256": "6a422ea379550832833dc63e5e9f4d483b862a38b1e377219b6abbe17e975edd"
+          "sizeBytes": 36355,
+          "sha256": "b8081eef23a5ae5a955a58e4b090e96a0333f66e9ec3d2b981b0d8ad6be59549"
         }
       ]
     },
@@ -53,8 +53,8 @@
         {
           "role": "preview",
           "path": "scenarios/tropical-island/preview.jpg",
-          "sizeBytes": 30246,
-          "sha256": "e2965169c3c1ded6131edd778bde2f0036fb1b1a5e582247fabb7e4393dcaf85"
+          "sizeBytes": 29701,
+          "sha256": "bcb7946926411cb0882288b60bb3909cacad88f6741b1eb06fd035c5537432b8"
         },
         {
           "role": "asset",
@@ -78,8 +78,8 @@
         {
           "role": "preview",
           "path": "scenarios/piscina/preview.jpg",
-          "sizeBytes": 38572,
-          "sha256": "108e895591d592c53797982aebdf58e4961b0235f46178eb450d72f4c59bbf2d"
+          "sizeBytes": 34948,
+          "sha256": "7b6b11108f6d068e1ee08c977d2562522675a2fb0010b178252b812c0b8badfe"
         }
       ]
     },
@@ -97,8 +97,8 @@
         {
           "role": "preview",
           "path": "scenarios/dream/preview.jpg",
-          "sizeBytes": 48297,
-          "sha256": "de2505a4ce60f0387c3dba4d3eae9d071cc6c1234bc4de00d6d12f05d7790f79"
+          "sizeBytes": 44739,
+          "sha256": "2702753144849d7c0aca675a51b51e911d0fa36d75bda4d66ee8ee9b2b1679f7"
         }
       ]
     },
@@ -116,8 +116,8 @@
         {
           "role": "preview",
           "path": "scenarios/fenda-do-mar/preview.jpg",
-          "sizeBytes": 34694,
-          "sha256": "eaebe097117eee21f5d67a9bd4824e1d2a0ac1b9751d201c588726e44d234bee"
+          "sizeBytes": 23253,
+          "sha256": "ed31b68a568eb70c7dec11723e5a35fc09c230b4d23deca9c9ab4d72048be802"
         }
       ]
     },
@@ -135,8 +135,8 @@
         {
           "role": "preview",
           "path": "scenarios/lago-a-noite/preview.jpg",
-          "sizeBytes": 32733,
-          "sha256": "90f2f1d64ec7f6b54f5986da214e9f7d8f61efc262b839d241c83af06dfc01c9"
+          "sizeBytes": 32713,
+          "sha256": "15e62d3d3a841f9d9e9c379547589080923920d1366031c3ff0c90c042970a09"
         }
       ]
     },
@@ -154,8 +154,8 @@
         {
           "role": "preview",
           "path": "scenarios/montanhas/preview.jpg",
-          "sizeBytes": 59394,
-          "sha256": "b6740529beb6049035325b3e6d59054289b1ecc1fa93c65dd817174b9013d7e1"
+          "sizeBytes": 55875,
+          "sha256": "e2f5d76a2dd69c61abef112bcbd7e9b4c2232b87bc69b12be14fb9fe555c89c5"
         }
       ]
     },
@@ -167,8 +167,8 @@
         {
           "role": "preview",
           "path": "scenarios/blocos/preview.jpg",
-          "sizeBytes": 48513,
-          "sha256": "3d8de365962e3c55ef1f7196a6bf7fbf6448671c07f655eb872627eba3fa902e"
+          "sizeBytes": 44293,
+          "sha256": "55ef6eb9603e7bf2c61fb53f0cf998821e8e39354aef5e9b0ae08d9849a95847"
         },
         {
           "role": "asset",
@@ -186,8 +186,8 @@
         {
           "role": "preview",
           "path": "scenarios/home-nevada/preview.jpg",
-          "sizeBytes": 33770,
-          "sha256": "3387dafbb32d3537f2fe640895a925c0b635607c68fd24e2ebf2a086afc33efb"
+          "sizeBytes": 32988,
+          "sha256": "303e1455438a0e5f051d228627068b54207e0a4f5d7688fddda7ede095d006d0"
         },
         {
           "role": "asset",
